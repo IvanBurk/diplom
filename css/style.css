@@ -11,14 +11,14 @@ body {
     font-family: OpenSans;
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/OpenSans-Bold.woff');
+    src: url('./fonts/OpenSans-Bold.woff');
   }
   
   @font-face {
     font-family: OpenSans;
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/OpenSans-Regular.woff');
+    src: url('./fonts/OpenSans-Regular.woff');
   }
   .header {
     width: 100%;
