@@ -27,7 +27,7 @@ body {
     position: relative;
     background-repeat: no-repeat;
     background-color: #000000;
-    background-image: url('/diplom/img/banner-bg.jpg');
+    background-image: url('./diplom/img/banner-bg.jpg');
     background-size: cover;
   }
   .header::after {
@@ -596,7 +596,7 @@ body {
       height: 630px;
       padding-left: 5%;
       padding-right: 5%;
-      background-image: url("/img/banner-mobile.jpg");
+      background-image: url("./diplom/img/banner-mobile.jpg");
       padding-top: 0;
       padding-bottom: 0;
     }
